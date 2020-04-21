@@ -1,1 +1,1 @@
-# dom-practice
+# Practicing document object model (DOM)
